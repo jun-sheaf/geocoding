@@ -1,8 +1,7 @@
 # geocoding
 
 > This is an asynchronous version of https://github.com/georust/geocoding.
-> Maintenance of this crate is best effort. If you'd like to add a feature, add
-> it to https://github.com/georust/geocoding before requesting us to merge.
+> Maintenance of this crate is best effort.
 
 Rust utilities to enrich addresses, cities, countries, and landmarks
 with geographic coordinates through third-party geocoding web services.
