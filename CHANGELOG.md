@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/jun-sheaf/geocoding-async/compare/v0.5.0...v0.5.1) (2024-05-01)
+
+
+### Bug Fixes
+
+* Update docs ([bec2b73](https://github.com/jun-sheaf/geocoding-async/commit/bec2b7391e848dd20e15ca3d0948f928252fbf57))
+
 ## [0.5.0](https://github.com/jun-sheaf/geocoding-async/compare/v0.4.0...v0.5.0) (2024-05-01)
 
 ### ⚠ BREAKING CHANGES
